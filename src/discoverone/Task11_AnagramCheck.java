@@ -24,7 +24,6 @@ public class Task11_AnagramCheck {
 		System.out.println("Strings are anagram");
 		else
 			System.out.println("Strings are not anagram");
-
 	}
 
 }
