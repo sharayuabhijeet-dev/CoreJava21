@@ -12,7 +12,7 @@ public class Task7_SecondHighestLengthWords {
 		
 		
 
-		String str="I am sharayu a Java Develop at IT org qwqwqwqwqwqw";
+		String str="Reach your goals cultivate self love and live life at its best";
 		String[] arr=str.split("\\s");
 		
 		List<Integer> listResult=Arrays.stream(arr)

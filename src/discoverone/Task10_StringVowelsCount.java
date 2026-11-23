@@ -7,7 +7,7 @@ public class Task10_StringVowelsCount {
 
 	public static void main(String[] args) {
 		
-		String str="My name is Sharayu Zolekar Mahulkar from Amravati";
+		String str="Reach your goals cultivate self love and live life at its best";
 
 		str.toLowerCase().chars()
 		.mapToObj(ch ->(char)ch)
