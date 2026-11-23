@@ -8,11 +8,11 @@ public class ComparisionMain {
 
 	public static void main(String[] args) {
 
-		Employee emp1=new Employee(1, "Sharayu", 37, new Address(12,"Mall Road"));
-		Employee emp2=new Employee(2, "Abhijeet", 40, new Address(134,"Badnera Road"));
+		Employee emp1=new Employee(1, "Tom", 37, new Address(12,"Mall Road"));
+		Employee emp2=new Employee(2, "Jerry", 40, new Address(134,"Badnera Road"));
 		Employee emp3=new Employee(3, "Garry", 34, new Address(234,"Ring Road"));
-		Employee emp4=new Employee(4, "Aruna", 63, new Address(34,"Akoli Road"));
-		Employee emp5=new Employee(3, "Ashwini", 64, new Address(23,"Camp Road"));
+		Employee emp4=new Employee(4, "Henry", 63, new Address(34,"Akoli Road"));
+		Employee emp5=new Employee(3, "Derik", 64, new Address(23,"Camp Road"));
 		
 		List<Employee> empList=new ArrayList<>();
 		empList.add(emp1);
